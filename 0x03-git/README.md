@@ -1,1 +1,1 @@
-some text for this read me
+My name is Utibe Edet a software engineer in ALX
